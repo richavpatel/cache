@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @SpringBootApplication
-@EnableCaching
+//@EnableCaching
 public class SimpleCacheApplication implements CommandLineRunner{
 
     @Autowired
